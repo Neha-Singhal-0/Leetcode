@@ -21,4 +21,6 @@ This repository is meant to help everyone on their coding journey. Let's tackle 
 - Add your solution or improvement
 - Submit a PR!
 
+Check out my LeetCode profile for more solutions: [Neha Singhal's LeetCode Profile](https://leetcode.com/u/NehaSinghal032415/)
+
 Happy coding! 💻
